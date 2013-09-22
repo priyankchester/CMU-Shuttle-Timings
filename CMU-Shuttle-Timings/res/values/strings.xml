@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CMU Shuttle Timings</string>
+    <string name="title_route_detail">Shuttle Departure Timings</string>
+
+</resources>
